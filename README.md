@@ -1,4 +1,4 @@
-# Linux-Sources-List
+# Sources-List
 
 # Debian 13 Trixie
 sudo cp /etc/apt/sources.list /etc/apt/sources.list.bak
